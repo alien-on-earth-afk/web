@@ -7,7 +7,7 @@ import { Card, CardContent, CardFooter, CardHeader, CardTitle } from '@/componen
 import { Calendar, ExternalLink } from 'lucide-react';
 import { WorkItem } from '@/types/admin';
 import { getWorkItems } from '@/lib/admin-service';
-import servicesData from '@/data/services.json';
+import servicesData from 'public/data/services.json';
 import { useRevealOnScroll } from '@/lib/animations';
 
 const WorkPage = () => {

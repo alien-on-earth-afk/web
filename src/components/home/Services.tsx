@@ -4,7 +4,7 @@ import PageBanner from '@/components/shared/PageBanner';
 import SectionHeading from '@/components/shared/SectionHeading';
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import servicesData from '@/data/services.json';
+import servicesData from 'public/data/services.json';
 import { ArrowRight } from 'lucide-react';
 import { useRevealOnScroll } from '@/lib/animations';
 import Darkreader from 'react-darkreader';
