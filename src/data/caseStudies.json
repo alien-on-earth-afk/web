@@ -1,0 +1,50 @@
+
+{
+  "caseStudies": [
+    {
+      "id": "1",
+      "title": "E-commerce Transformation for Fashion Retailer",
+      "client": "StyleModern",
+      "category": "Web Development",
+      "image": "/images/case-studies/ecommerce-case.jpg",
+      "challenge": "StyleModern was struggling with an outdated e-commerce platform that resulted in poor conversion rates and limited their ability to showcase their expanding product lines. Their mobile experience was particularly problematic, with high bounce rates and abandoned carts.",
+      "solution": "We redesigned and rebuilt their e-commerce platform from the ground up using a headless architecture that separated the frontend experience from the backend commerce functionality. This approach allowed for a highly optimized, responsive interface while maintaining robust product management capabilities. We implemented advanced filtering, personalized recommendations, and a streamlined checkout process.",
+      "result": "The new platform launched to immediate positive results. Mobile conversion rates increased by 86%, and overall sales improved by 42% within the first quarter. Page load times decreased by 65%, and average session duration increased by 3.2 minutes. The flexible architecture allows the StyleModern team to quickly update content and launch new collections without developer intervention.",
+      "testimonial": {
+        "quote": "WebARK transformed our digital business. Our new platform not only looks beautiful but has directly contributed to significant revenue growth. Their team understood our brand and created an experience that truly connects with our customers.",
+        "author": "Jessica Torres, Digital Director at StyleModern"
+      },
+      "services": ["UX Research & Design", "E-commerce Development", "Integration Services", "Performance Optimization"]
+    },
+    {
+      "id": "2",
+      "title": "Mobile App for Healthcare Provider",
+      "client": "MediConnect",
+      "category": "Mobile Development",
+      "image": "/images/case-studies/healthcare-app.jpg",
+      "challenge": "MediConnect needed a patient-facing mobile application that would allow users to schedule appointments, access medical records, communicate with providers, and manage prescriptions. The solution needed to be highly secure, compliant with healthcare regulations, and accessible to users of all technical abilities and ages.",
+      "solution": "We developed native iOS and Android applications that prioritized simplicity and clarity while handling complex healthcare data. Our design process included extensive research with diverse patient groups to ensure the interface was intuitive for all users. We implemented biometric authentication for security while keeping the login process streamlined. The backend integration connected securely with their existing electronic health record system.",
+      "result": "The application was adopted by 76% of patients within six months of launch, far exceeding the initial target of 40%. Appointment no-shows decreased by 35%, and administrative call volume reduced by 42% as patients utilized self-service features. Patient satisfaction scores for digital services improved from 3.2/5 to 4.8/5.",
+      "testimonial": {
+        "quote": "The app has transformed how we connect with our patients. WebARK delivered a solution that's secure and compliant but also genuinely helpful and easy to use. Our patients across all age groups have embraced it enthusiastically.",
+        "author": "Dr. Alan Richards, CIO at MediConnect"
+      },
+      "services": ["Mobile UI/UX Design", "Native iOS Development", "Native Android Development", "Healthcare System Integration", "Security Implementation"]
+    },
+    {
+      "id": "3",
+      "title": "Brand Identity & Marketing Collateral",
+      "client": "EcoHarvest",
+      "category": "Graphic Design",
+      "image": "/images/case-studies/brand-identity.jpg",
+      "challenge": "EcoHarvest, a sustainable agriculture startup, needed a complete brand identity that would communicate their innovative approach to farming while appealing to both environmentally-conscious consumers and commercial buyers. Their existing materials lacked consistency and failed to convey their core values of sustainability, technology, and quality.",
+      "solution": "We conducted extensive market research and collaborative workshops to define EcoHarvest's brand positioning. From there, we created a comprehensive identity system including logo design, color palette, typography, photography style, and voice guidelines. We then applied this identity across packaging, marketing materials, trade show displays, and digital assets.",
+      "result": "The new brand identity received overwhelming positive feedback from both target audiences. Retailer interest increased by 65% at their first trade show with the new branding. Consumer research indicated a 48% improvement in brand recall and perception of quality. The cohesive visual system has enabled the internal marketing team to create consistent materials independently.",
+      "testimonial": {
+        "quote": "WebARK captured exactly who we are and what makes us different. Our new brand identity perfectly balances our technical innovation with our environmental mission. It's helped us connect with our audience on a deeper level and opened doors with major retailers.",
+        "author": "Maria Sanchez, Founder of EcoHarvest"
+      },
+      "services": ["Brand Strategy", "Logo Design", "Identity System", "Packaging Design", "Marketing Collateral"]
+    }
+  ]
+}

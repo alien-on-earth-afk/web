@@ -1,0 +1,9 @@
+
+This file is a placeholder to ensure the directory structure is created.
+The following directories should be created:
+/public/images/services/
+/public/images/portfolio/
+/public/images/testimonials/
+/public/images/team/
+/public/images/blog/
+/public/images/case-studies/

@@ -1,0 +1,16 @@
+{
+  "works": [
+    {
+      "id": "1742563892755",
+      "title": "test",
+      "description": "this is work xD",
+      "serviceId": "web-development",
+      "link": "https://alien-on-earth-afk.github.io/bakery",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewsroom.gettyimages.com%2Fen%2Fgetty-images%2Fgetty-images-statement&psig=AOvVaw3-N3UDgM6auPzowYp9iPP9&ust=1742650232996000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi6jZSkm4wDFQAAAAAdAAAAABAJ",
+      "date": "2025-03-21",
+      "featured": false,
+      "client": "",
+      "technologies": []
+    }
+  ]
+}

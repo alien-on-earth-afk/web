@@ -1,0 +1,157 @@
+{
+  "services": [
+    {
+      "id": "web-development",
+      "title": "Web Development",
+      "shortDescription": "Custom web applications and websites",
+      "description": "Our web development services deliver custom, high-performance websites and applications that engage users and drive business growth. From responsive designs to complex e-commerce solutions, we craft digital experiences that stand out.",
+      "icon": "/icons/web.svg",
+      "image": "/images/services/web.jpg",
+      "features": [
+        "Responsive Design",
+        "Modern Frameworks",
+        "SEO Optimization"
+      ],
+      "portfolioItems": [
+        {
+          "id": "1",
+          "title": "E-commerce Platform",
+          "description": "A fully responsive e-commerce platform with seamless payment integration and inventory management",
+          "image": "/images/portfolio/ecommerce.jpg",
+          "link": "#"
+        },
+        {
+          "id": "2",
+          "title": "Corporate Website",
+          "description": "Modern corporate website with interactive elements and content management system",
+          "image": "/images/portfolio/corporate.jpg",
+          "link": "#"
+        },
+        {
+          "id": "3",
+          "title": "Web Application",
+          "description": "Customer portal with user authentication, dashboard, and real-time data visualization",
+          "image": "/images/portfolio/webapp.jpg",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": "video-editing",
+      "title": "Video Editing",
+      "shortDescription": "Professional video editing services for brands and creators",
+      "description": "Transform your raw footage into captivating visual stories with our professional video editing services. We combine technical expertise with creative vision to produce videos that engage your audience and elevate your brand.",
+      "icon": "Video",
+      "image": "/images/services/video-editing.jpg",
+      "features": [
+        "Color Grading",
+        "Motion Graphics",
+        "Sound Design",
+        "Visual Effects",
+        "Animation Integration",
+        "Content Optimization"
+      ],
+      "portfolioItems": [
+        {
+          "id": "1",
+          "title": "Brand Commercial",
+          "description": "60-second commercial spot with custom motion graphics and sound design",
+          "image": "/images/portfolio/commercial.jpg",
+          "link": "#"
+        },
+        {
+          "id": "2",
+          "title": "Documentary Series",
+          "description": "Multi-episode documentary series with sophisticated color grading and narrative structure",
+          "image": "/images/portfolio/documentary.jpg",
+          "link": "#"
+        },
+        {
+          "id": "3",
+          "title": "Product Showcase",
+          "description": "Dynamic product showcase with 3D elements and cinematic techniques",
+          "image": "/images/portfolio/product.jpg",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": "graphic-design",
+      "title": "Graphic Design",
+      "shortDescription": "Stunning visuals that communicate your brand's message",
+      "description": "Our graphic design services create compelling visual assets that strengthen your brand identity and engage your audience. From logos to marketing materials, we deliver designs that communicate your message effectively.",
+      "icon": "Palette",
+      "image": "/images/services/graphic-design.jpg",
+      "features": [
+        "Brand Identity",
+        "Print Design",
+        "Digital Assets",
+        "Packaging Design",
+        "Illustration",
+        "Marketing Collateral"
+      ],
+      "portfolioItems": [
+        {
+          "id": "1",
+          "title": "Brand Identity System",
+          "description": "Complete brand identity with logo, color palette, typography, and usage guidelines",
+          "image": "/images/portfolio/brand-identity.jpg",
+          "link": "#"
+        },
+        {
+          "id": "2",
+          "title": "Marketing Campaign",
+          "description": "Integrated design system for multi-channel marketing campaign",
+          "image": "/images/portfolio/marketing.jpg",
+          "link": "#"
+        },
+        {
+          "id": "3",
+          "title": "Product Packaging",
+          "description": "Distinctive packaging design with shelf impact and brand consistency",
+          "image": "/images/portfolio/packaging.jpg",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": "ui-ux-design",
+      "title": "UI/UX Design",
+      "shortDescription": "User-centered designs that enhance digital experiences",
+      "description": "Our UI/UX design services create intuitive, engaging user experiences that keep customers coming back. We combine aesthetic appeal with functional design to build interfaces that are both beautiful and effective.",
+      "icon": "Figma",
+      "image": "/images/services/ui-ux.jpg",
+      "features": [
+        "User Research",
+        "Information Architecture",
+        "Wireframing & Prototyping",
+        "Visual Design",
+        "Usability Testing",
+        "Design Systems"
+      ],
+      "portfolioItems": [
+        {
+          "id": "1",
+          "title": "E-learning Platform",
+          "description": "Accessible and engaging interface design for educational platform with complex functionality",
+          "image": "/images/portfolio/elearning.jpg",
+          "link": "#"
+        },
+        {
+          "id": "2",
+          "title": "Booking System",
+          "description": "Streamlined booking interface with intuitive user flow and conversion optimization",
+          "image": "/images/portfolio/booking.jpg",
+          "link": "#"
+        },
+        {
+          "id": "3",
+          "title": "Dashboard Redesign",
+          "description": "Data-rich dashboard with improved information hierarchy and visualization",
+          "image": "/images/portfolio/dashboard.jpg",
+          "link": "#"
+        }
+      ]
+    }
+  ]
+}

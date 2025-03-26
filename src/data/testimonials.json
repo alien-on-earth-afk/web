@@ -1,0 +1,45 @@
+
+{
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Modi",
+      "title": "CEO, India",
+      "image": "/images/testimonials/modi.jpg",
+      "quote": "WebARK transformed our digital presence completely. Their team's attention to detail and innovative approach resulted in a website that not only looks stunning but has significantly improved our conversion rates.",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "name": "Donald Trump",
+      "title": "Marketing Director, USA",
+      "image": "/images/testimonials/trump.jpg",
+      "quote": "The video editing work delivered by WebARK exceeded our expectations. They captured our brand essence perfectly and created content that resonated with our audience on a whole new level.",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "name": "Kim Jong Un",
+      "title": "Founder, North Korea",
+      "image": "/images/testimonials/kim.jpg",
+      "quote": "Working with WebARK has been a game-changer for our startup. Their mobile app development expertise helped us bring our vision to life with a polished, high-performance product that our users love.",
+      "rating": 5
+    },
+    {
+      "id": "4",
+      "name": "Sunita WIlliams",
+      "title": "Space Administrator, NASA",
+      "image": "/images/testimonials/sunita.jpg",
+      "quote": "As a space professional myself, I have high standards. WebARK not only met those standards but exceeded them. Their UI/UX work shows a rare combination of creativity and strategic thinking.",
+      "rating": 5
+    },
+    {
+      "id": "5",
+      "name": "Mamta Banerjee",
+      "title": "Chief Minister, West Bwngal",
+      "image": "/images/testimonials/didi.jpg",
+      "quote": "Bhalo Website.",
+      "rating": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "team": [
+    {
+      "id": "1",
+      "name": "Akash Kumar",
+      "title": "WordPress Developer, Video Editor",
+      "image": "/images/team/akash.jpg",
+      "bio": "Akash is our WordPress developer and Video editor. His content is one of a kind and has been featured in various publications. He also has expertise in WordPress development amd delivering quality service within a short deadline.",
+      "socialLinks": {
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Arun",
+      "title": "Web Developer",
+      "image": "/images/team/arun.jpg",
+      "bio": "Arun is our leading web developer. He has a proven track record of delivering high-quality web applications and has extensive experience in building scalable and maintainable web solutions. He has a passion for front-end development and is proficient in HTML, CSS, and JavaScript. He has a strong background in JavaScript, TypeScript, and Node.js.",
+      "socialLinks": {
+        "linkedin": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Krishna Gupta",
+      "title": "Full Stack Developer",
+      "image": "/images/team/krishna.jpg",
+      "bio": "Krishna is our full stack developer. He is a self-taught developer with a passion for building scalable and efficient web applications. He has a strong background in JavaScript, TypeScript, and Node.js, and is proficient in React, and Vue.js. Krishna is also experienced in working with databases, APIs and has a proven track record of delivering high-quality software solutions.",
+      "socialLinks": {
+        "linkedin": "#",
+        "github": "https://github.com/alien-on-earth-afk"
+      }
+    }
+  ]
+}
